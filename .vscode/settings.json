@@ -1,0 +1,9 @@
+{
+  "gitHistory.avatarCacheExpiration": 1,
+  "editor.accessibilitySupport": "off",
+  "editor.minimap.autohide": false,
+  "editor.minimap.maxColumn": 850,
+  "editor.minimap.scale": 1,
+  "files.autoSave": "afterDelay",
+  "editor.wordWrap": "on"
+}
